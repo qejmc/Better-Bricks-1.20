@@ -1,6 +1,6 @@
 # Better Bricks Mod
 
-The Better Bricks mod is a Minecraft mod that currently supports versions 1.12.2, 1.16.5, 1.18.2, and 1.19.
+The Better Bricks mod is a Minecraft mod that currently supports versions 1.12.2, 1.16.5, 1.18.2, 1.19, 1.19.3, and 1.20.
 
 ---
 The Better Bricks mod adds new brick types and recipes to your Minecraft world.
