@@ -19,4 +19,4 @@ This mod is available for download [here](https://www.curseforge.com/minecraft/m
 
 ---
 ### License
-GNU General Public License v3.0: see license [here](https://github.com/qejmc/Better-Bricks-Latest/blob/main/LICENSE)
+GNU General Public License v3.0: see license [here](https://github.com/qejmc/Better-Bricks-Latest/blob/master/LICENSE)
