@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "S#S",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:mortar"
+        },
+        "S": {
+            "item": "minecraft:sandstone"
+        }
+    },
+    "result": {
+        "item": "betterbricks:sandstone_bricks",
+        "count": 8
+    }
+}

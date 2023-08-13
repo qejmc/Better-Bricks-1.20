@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "betterbricks:block/wheat_brick_slab"
+    },
+    "type=double": {
+      "model": "betterbricks:block/wheat_bricks"
+    },
+    "type=top": {
+      "model": "betterbricks:block/wheat_brick_slab_top"
+    }
+  }
+}

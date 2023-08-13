@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "betterbricks:block/tan_multicolor_bricks",
+    "top": "betterbricks:block/tan_multicolor_bricks",
+    "side": "betterbricks:block/tan_multicolor_bricks"
+  }
+}

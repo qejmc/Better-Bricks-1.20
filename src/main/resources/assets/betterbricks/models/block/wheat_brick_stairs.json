@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "betterbricks:block/wheat_bricks",
+    "top": "betterbricks:block/wheat_bricks",
+    "side": "betterbricks:block/wheat_bricks"
+  }
+}

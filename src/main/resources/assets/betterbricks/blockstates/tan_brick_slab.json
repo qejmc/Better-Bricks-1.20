@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "betterbricks:block/tan_brick_slab"
+    },
+    "type=double": {
+      "model": "betterbricks:block/tan_bricks"
+    },
+    "type=top": {
+      "model": "betterbricks:block/tan_brick_slab_top"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BSB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:mortar"
+        },
+        "B": {
+            "item": "minecraft:brick"
+        },
+        "S": {
+            "item": "betterbricks:tan_dye"
+        }
+    },
+    "result": {
+        "item": "betterbricks:tan_bricks",
+        "count": 8
+    }
+}
