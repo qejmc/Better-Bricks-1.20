@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "betterbricks:tan_brick_stairs",
+    "betterbricks:brown_multicolor_brick_stairs",
+    "betterbricks:gray_brick_stairs",
+    "betterbricks:light_gray_brick_stairs",
+    "betterbricks:sandstone_brick_stairs",
+    "betterbricks:tan_multicolor_brick_stairs",
+    "betterbricks:wheat_brick_stairs",
+    "betterbricks:white_brick_stairs",
+    "betterbricks:white_thin_brick_stairs"
+  ]
+}

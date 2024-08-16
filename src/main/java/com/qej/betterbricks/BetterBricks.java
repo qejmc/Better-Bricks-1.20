@@ -3,6 +3,7 @@ package com.qej.betterbricks;
 import com.mojang.logging.LogUtils;
 import com.qej.betterbricks.block.ModBlocks;
 import com.qej.betterbricks.item.ModItems;
+import net.minecraft.tags.BlockTags;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.api.distmarker.Dist;
@@ -33,16 +34,16 @@ public class BetterBricks
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
-        BetterBricksTab.register(modEventBus);
-
-        ModItems.register(modEventBus);
-        ModBlocks.register(modEventBus);
-
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        BetterBricksTab.register(modEventBus);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);

@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "betterbricks:tan_bricks"
+    },
+    "result": {
+        "id": "betterbricks:tan_multicolor_bricks",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#C#",
+        "CMC",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sand"
+        },
+        "C": {
+            "item": "minecraft:clay_ball"
+        },
+        "M": {
+            "item": "minecraft:coal"
+        }
+    },
+    "result": {
+        "id": "betterbricks:mortar",
+        "count": 16
+    }
+}

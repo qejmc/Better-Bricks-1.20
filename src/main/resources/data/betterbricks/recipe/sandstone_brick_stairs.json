@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:sandstone_bricks"
+        }
+    },
+    "result": {
+        "id": "betterbricks:sandstone_brick_stairs",
+        "count": 4
+    }
+}

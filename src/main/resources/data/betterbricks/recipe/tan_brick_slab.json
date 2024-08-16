@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:tan_bricks"
+        }
+    },
+    "result": {
+        "id": "betterbricks:tan_brick_slab",
+        "count": 6
+    }
+}
