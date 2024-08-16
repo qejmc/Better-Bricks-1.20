@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#B#",
+        "BWB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:mortar"
+        },
+        "B": {
+            "item": "minecraft:brick"
+        },
+        "W": {
+            "item": "minecraft:white_dye"
+        }
+    },
+    "result": {
+        "id": "betterbricks:white_thin_bricks",
+        "count": 8
+    }
+}

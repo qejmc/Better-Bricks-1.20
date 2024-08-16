@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:white_thin_bricks"
+        }
+    },
+    "result": {
+        "id": "betterbricks:white_thin_brick_slab",
+        "count": 6
+    }
+}

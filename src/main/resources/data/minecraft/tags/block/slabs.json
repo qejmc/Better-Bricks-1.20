@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "betterbricks:tan_brick_slab",
+    "betterbricks:brown_multicolor_brick_slab",
+    "betterbricks:gray_brick_slab",
+    "betterbricks:light_gray_brick_slab",
+    "betterbricks:sandstone_brick_slab",
+    "betterbricks:tan_multicolor_brick_slab",
+    "betterbricks:wheat_brick_slab",
+    "betterbricks:white_brick_slab",
+    "betterbricks:white_thin_brick_slab"
+  ]
+}

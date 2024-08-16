@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#B#",
+        "BGB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:mortar"
+        },
+        "B": {
+            "item": "minecraft:brick"
+        },
+        "G": {
+            "item": "minecraft:gray_dye"
+        }
+    },
+    "result": {
+        "id": "betterbricks:gray_bricks",
+        "count": 8
+    }
+}

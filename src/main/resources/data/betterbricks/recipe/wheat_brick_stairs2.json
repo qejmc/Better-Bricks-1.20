@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "  #",
+        " ##",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:wheat_bricks"
+        }
+    },
+    "result": {
+        "id": "betterbricks:wheat_brick_stairs",
+        "count": 4
+    }
+}

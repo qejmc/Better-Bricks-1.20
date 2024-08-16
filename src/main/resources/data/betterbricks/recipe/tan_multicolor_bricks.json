@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#B#",
+        "BLB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brick"
+        },
+        "B": {
+            "item": "betterbricks:mortar"
+        },
+        "L": {
+            "item": "betterbricks:tan_dye"
+        }
+    },
+    "result": {
+        "id": "betterbricks:tan_multicolor_bricks",
+        "count": 8
+    }
+}

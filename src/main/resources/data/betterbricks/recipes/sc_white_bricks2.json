@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "betterbricks:white_thin_bricks"
-    },
-    "result": "betterbricks:white_bricks",
-    "count": 1
-}

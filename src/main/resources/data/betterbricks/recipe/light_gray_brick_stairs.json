@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "betterbricks:light_gray_bricks"
+        }
+    },
+    "result": {
+        "id": "betterbricks:light_gray_brick_stairs",
+        "count": 4
+    }
+}
