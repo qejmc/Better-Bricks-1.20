@@ -62,32 +62,44 @@ public class BetterBricks
             event.accept(ModItems.TAN_DYE);
 
             event.accept(ModBlocks.TAN_BRICKS);
-            event.accept(ModBlocks.TAN_BRICK_SLAB);
             event.accept(ModBlocks.TAN_BRICK_STAIRS);
-            event.accept(ModBlocks.BROWN_MULTICOLOR_BRICK_SLAB);
+            event.accept(ModBlocks.TAN_BRICK_SLAB);
+
             event.accept(ModBlocks.BROWN_MULTICOLOR_BRICKS);
             event.accept(ModBlocks.BROWN_MULTICOLOR_BRICK_STAIRS);
-            event.accept(ModBlocks.GRAY_BRICK_SLAB);
-            event.accept(ModBlocks.GRAY_BRICK_STAIRS);
+            event.accept(ModBlocks.BROWN_MULTICOLOR_BRICK_SLAB);
+
             event.accept(ModBlocks.GRAY_BRICKS);
-            event.accept(ModBlocks.LIGHT_GRAY_BRICK_SLAB);
-            event.accept(ModBlocks.LIGHT_GRAY_BRICK_STAIRS);
+            event.accept(ModBlocks.GRAY_BRICK_STAIRS);
+            event.accept(ModBlocks.GRAY_BRICK_SLAB);
+
             event.accept(ModBlocks.LIGHT_GRAY_BRICKS);
-            event.accept(ModBlocks.SANDSTONE_BRICK_SLAB);
-            event.accept(ModBlocks.SANDSTONE_BRICK_STAIRS);
+            event.accept(ModBlocks.LIGHT_GRAY_BRICK_STAIRS);
+            event.accept(ModBlocks.LIGHT_GRAY_BRICK_SLAB);
+
             event.accept(ModBlocks.SANDSTONE_BRICKS);
-            event.accept(ModBlocks.TAN_MULTICOLOR_BRICK_SLAB);
-            event.accept(ModBlocks.TAN_MULTICOLOR_BRICK_STAIRS);
+            event.accept(ModBlocks.SANDSTONE_BRICK_STAIRS);
+            event.accept(ModBlocks.SANDSTONE_BRICK_SLAB);
+
             event.accept(ModBlocks.TAN_MULTICOLOR_BRICKS);
-            event.accept(ModBlocks.WHEAT_BRICK_SLAB);
-            event.accept(ModBlocks.WHEAT_BRICK_STAIRS);
+            event.accept(ModBlocks.TAN_MULTICOLOR_BRICK_STAIRS);
+            event.accept(ModBlocks.TAN_MULTICOLOR_BRICK_SLAB);
+
             event.accept(ModBlocks.WHEAT_BRICKS);
-            event.accept(ModBlocks.WHITE_BRICK_SLAB);
+            event.accept(ModBlocks.WHEAT_BRICK_STAIRS);
+            event.accept(ModBlocks.WHEAT_BRICK_SLAB);
+
             event.accept(ModBlocks.WHITE_BRICKS);
             event.accept(ModBlocks.WHITE_BRICK_STAIRS);
-            event.accept(ModBlocks.WHITE_THIN_BRICK_SLAB);
-            event.accept(ModBlocks.WHITE_THIN_BRICK_STAIRS);
+            event.accept(ModBlocks.WHITE_BRICK_SLAB);
+
             event.accept(ModBlocks.WHITE_THIN_BRICKS);
+            event.accept(ModBlocks.WHITE_THIN_BRICK_STAIRS);
+            event.accept(ModBlocks.WHITE_THIN_BRICK_SLAB);
+
+            event.accept(ModBlocks.LIGHT_GRAY_BRICKS_ALT);
+            event.accept(ModBlocks.LIGHT_GRAY_BRICKS_ALT_STAIRS);
+            event.accept(ModBlocks.LIGHT_GRAY_BRICKS_ALT_SLAB);
 
         }
     }
