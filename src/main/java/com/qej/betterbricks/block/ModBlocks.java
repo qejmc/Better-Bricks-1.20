@@ -65,11 +65,12 @@ public class ModBlocks
                     .requiresCorrectToolForDrops())
             );
 
-    /*
+
     public static final RegistryObject<Block> LIGHT_GRAY_BRICKS_ALT = registerBlock("light_gray_bricks_alt",
-            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(1.0f).sound(SoundType.STONE).requiresCorrectToolForDrops()),
+            () -> new Block(BlockBehaviour.Properties.ofLegacyCopy(Blocks.BRICKS).strength(1.0f).sound(SoundType.STONE)
+                    .requiresCorrectToolForDrops())
             );
-    */
+
 
     /*
      * STANDARD BRICK STAIRS
@@ -119,6 +120,12 @@ public class ModBlocks
             () -> new StairBlock(ModBlocks.WHITE_THIN_BRICKS.get().defaultBlockState(), BlockBehaviour.Properties.ofLegacyCopy(Blocks.BRICK_STAIRS)
                     .strength(1.0f).sound(SoundType.STONE).requiresCorrectToolForDrops())
             );
+
+    public static final RegistryObject<Block> LIGHT_GRAY_BRICKS_ALT_STAIRS = registerBlock("light_gray_bricks_alt_stairs",
+            () -> new StairBlock(ModBlocks.LIGHT_GRAY_BRICKS_ALT.get().defaultBlockState(), BlockBehaviour.Properties.ofLegacyCopy(Blocks.BRICK_STAIRS)
+                    .strength(1.0f).sound(SoundType.STONE).requiresCorrectToolForDrops())
+    );
+
     /*
      * STANDARD BRICK SLABS
      */
@@ -167,6 +174,15 @@ public class ModBlocks
             () -> new SlabBlock(BlockBehaviour.Properties.ofLegacyCopy(Blocks.BRICK_SLAB).strength(1.0f).sound(SoundType.STONE)
                     .requiresCorrectToolForDrops())
             );
+
+    public static final RegistryObject<Block> LIGHT_GRAY_BRICKS_ALT_SLAB = registerBlock("light_gray_bricks_alt_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.ofLegacyCopy(Blocks.BRICK_SLAB).strength(1.0f).sound(SoundType.STONE)
+                    .requiresCorrectToolForDrops())
+    );
+
+    /*
+     * REGISTER BLOCKS AND ITEMS
+     */
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block)
     {

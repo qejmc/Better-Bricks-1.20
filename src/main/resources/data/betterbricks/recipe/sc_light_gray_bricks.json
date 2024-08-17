@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "betterbricks:light_gray_bricks"
+  },
+  "result": {
+    "id": "betterbricks:light_gray_bricks_alt",
+    "count": 1
+  }
+}

@@ -13,6 +13,7 @@
 	"block.betterbricks.white_bricks": "White Bricks",
 	"block.betterbricks.brown_multicolor_bricks": "Mixed Brown Bricks",
 	"block.betterbricks.wheat_bricks": "Wheat Bricks",
+	"block.betterbricks.light_gray_bricks_alt": "Clean Light Gray Bricks",
 	
 	"block.betterbricks.tan_brick_stairs": "Tan Brick Stairs",
 	"block.betterbricks.light_gray_brick_stairs": "Light Gray Brick Stairs",
@@ -23,6 +24,7 @@
 	"block.betterbricks.white_brick_stairs": "White Brick Stairs",
 	"block.betterbricks.brown_multicolor_brick_stairs": "Mixed Brown Brick Stairs",
 	"block.betterbricks.wheat_brick_stairs": "Wheat Brick Stairs",
+	"block.betterbricks.light_gray_bricks_alt_stairs": "Clean Light Gray Bricks Stairs",
 	
 	"block.betterbricks.tan_brick_slab": "Tan Brick Slab",
 	"block.betterbricks.light_gray_brick_slab": "Light Gray Brick Slab",
@@ -32,6 +34,6 @@
 	"block.betterbricks.white_thin_brick_slab": "White Thin Brick Slab",
 	"block.betterbricks.white_brick_slab": "White Brick Slab",
 	"block.betterbricks.brown_multicolor_brick_slab": "Mixed Brown Brick Slab",
-	"block.betterbricks.wheat_brick_slab": "Wheat Brick Slab"
-	
+	"block.betterbricks.wheat_brick_slab": "Wheat Brick Slab",
+	"block.betterbricks.light_gray_bricks_alt_slab": "Clean Light Gray Bricks Slab"
 }
